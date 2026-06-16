@@ -107,5 +107,5 @@ Full list in `requirements.txt`.
 
 ## Contact
 
-mail: abhireddy2748@gmail.com
+mail: porachenuthejaswini@gmail.com
 
