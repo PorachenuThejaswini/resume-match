@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+python-dotenv
+PyMuPDF
+tqdm
+sentence-transformers
+scikit-learn
+openai
+streamlit
+streamlit-extras
+unstructured[local-inference,pdf]
